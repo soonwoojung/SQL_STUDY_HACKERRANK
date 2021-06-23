@@ -25,3 +25,18 @@ Employee Salaries
 Weather Observation Station 17
 Weather Observation Station 18
 ```
+
+2일차
+```
+[조건문 CASE Hard] Type of Triangle
+[데이터 개수 : COUNT] Weather Observation Station 4
+Weather Observation Station 14
+Weather Observation Station 15
+Weather Observation Station 16
+[SQRT, POW] Weather Observation Station 19
+[MEDIAN HARD] Weather Observation Station 20
+Revising Aggregations - The Count Function
+[Hard GROUP BY] The PADS
+[Hard Pivot] Occupations
+[NULL이 있는 경우 NOT IN, BST] Binary Tree Nodes
+```
