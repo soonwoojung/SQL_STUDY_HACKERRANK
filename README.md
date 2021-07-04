@@ -40,3 +40,13 @@ Revising Aggregations - The Count Function
 [Hard Pivot] Occupations
 [NULL이 있는 경우 NOT IN, BST] Binary Tree Nodes
 ```
+3일차
+```
+query the sum of the populations of all cities where the CONTINENT is 'Asia'. - 기본 Join
+query the names of all cities where the CONTINENT is 'Africa'. - 기본 Join
+Average Population of Each Continent - 기본 Join + Group By ( sum 등 일종의 agg 적용시 )
+The Report - Join + 조건문 
+Ollivander's Inventory - Hard Join [join,group by,having]
+Challenges - Hard Join + ( My SQL 8.0 이상인 경우 WITH 활용, 
+Contest Leaderboard
+```
