@@ -50,3 +50,10 @@ Ollivander's Inventory - Hard Join [join,group by,having]
 Challenges - Hard Join + ( My SQL 8.0 이상인 경우 WITH 활용, 
 Contest Leaderboard
 ```
+4일차
+```
+Day1 - (HARD) Weather Observation Station 5 - 서브쿼리인듯?
+Day1 - [~~로 시작하는 글자 찾기] Weather Observation Station 6
+Day2 - [조건문 CASE Hard] Type of Triangle
+복습
+```
